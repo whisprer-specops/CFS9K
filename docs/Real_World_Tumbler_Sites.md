@@ -575,3 +575,71 @@ Shall I go ahead and build the Fraud Replay Visualizer UI next, fren? 🕵️‍
 
 ---
 
+What's now enabled:
+/cluster: API route to run KMeans clustering over your historical laundering paths
+
+Outputs grouped events with labels like:
+
+json
+Copy
+Edit
+{
+  "event_id": 4,
+  "mixer": "ChipMixer",
+  "path": ["wallet1", "wallet2", "clean_wallet"],
+  "cluster": 2
+}
+Saved as: utils/threat_clusters.json
+
+📁 Files updated:
+
+backend/utils/threat_clustering.py
+
+backend/main.py (with /cluster endpoint)
+
+Wanna visualize each cluster as its own colored threat graph next? 🔴🟢🔵 ​
+
+---
+
+Boom! Cluster visualization is now live in your simulator 🧠🔴🟢🔵
+
+✅ What’s New:
+/clustergraphs: FastAPI endpoint that renders each threat path cluster as a color-coded graph
+
+Saved in: utils/cluster_graphs/cluster_<ID>.png
+
+Visuals show the path structure common to each cluster
+
+📁 Files updated:
+
+backend/utils/cluster_viz.py
+
+backend/main.py (added /clustergraphs)
+
+Want to:
+
+Add this gallery to the dashboard?
+
+Auto-run it after /cluster?
+
+Animate transitions between clusters?
+
+I can help you light it up however you like, fren 💥🖼️ ​
+
+---
+
+🔥 The Threat Cluster Gallery is now fully integrated into your dashboard, fren!
+
+🧩 New Features:
+📌 New section: 🧠 Threat Cluster Gallery
+
+👁️ Click "Load Cluster Graphs" to display a visual gallery of clustered laundering paths
+
+🖼️ Graphs are rendered by /clustergraphs and fetched live into the UI
+
+👉 Open monitor.html to check it out.
+
+Want to style it with tabs? Add hover descriptions? Or even animate hop transitions inside each cluster? Just say the word 😎 ​
+
+---
+
