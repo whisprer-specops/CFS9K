@@ -1,0 +1,9 @@
+{
+  "cards": 1000,
+  "min_amount": 0.13,
+  "max_amount": 4.99,
+  "spread_minutes": 120,
+  "merchant_count": 5,
+  "proxy_rotation_rate": 10,
+  "wallet_count": 3
+}

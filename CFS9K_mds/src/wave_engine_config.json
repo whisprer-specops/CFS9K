@@ -1,0 +1,10 @@
+{
+  "wave_count": 4,
+  "interval_secs": 1200,
+  "cards": 60,
+  "min_amount": 0.33,
+  "max_amount": 4.33,
+  "spread_minutes": 45,
+  "merchant_count": 4,
+  "wallet_count": 2
+}

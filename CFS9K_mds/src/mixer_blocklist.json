@@ -1,0 +1,61 @@
+{
+    "sanctioned": [
+        {
+            "name": "Tornado Cash",
+            "status": "OFAC Sanctioned",
+            "network": "Ethereum"
+        },
+        {
+            "name": "Blender.io",
+            "status": "OFAC Sanctioned",
+            "network": "Bitcoin"
+        },
+        {
+            "name": "Sinbad.io",
+            "status": "OFAC Sanctioned",
+            "network": "Bitcoin"
+        },
+        {
+            "name": "ChipMixer",
+            "status": "Seized",
+            "network": "Bitcoin"
+        },
+        {
+            "name": "Helix",
+            "status": "Admin Arrested",
+            "network": "Bitcoin"
+        }
+    ],
+    "watched": [
+        {
+            "name": "Wasabi Wallet",
+            "status": "Under Watch",
+            "tech": "CoinJoin"
+        },
+        {
+            "name": "Samourai Wallet",
+            "status": "Under Watch",
+            "tech": "Whirlpool"
+        },
+        {
+            "name": "Bitcoin Fog",
+            "status": "Inactive",
+            "tech": "Layered Anonymity"
+        },
+        {
+            "name": "FoxMixer",
+            "status": "Flagged",
+            "tech": "Unknown"
+        },
+        {
+            "name": "MixTum.io",
+            "status": "Surveilled",
+            "tech": "Custom"
+        },
+        {
+            "name": "UniJoin",
+            "status": "Untrusted",
+            "tech": "Aggregator"
+        }
+    ]
+}

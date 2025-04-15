@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "interval_minutes": 60,
+  "wave_count": 1,
+  "cards": 50,
+  "min_amount": 0.15,
+  "max_amount": 4.75,
+  "spread_minutes": 45,
+  "merchant_count": 5,
+  "wallet_count": 3
+}
