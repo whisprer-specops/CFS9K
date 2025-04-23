@@ -1,0 +1,9 @@
+1. encryption for front facing - should look innocent tho?
+2. pay for droplet with annonymised:
+- lud c
+- access via tor
+- beware traces of source machine in ul code
+3. how to hide from internet archivers?
+4. check flow back n forth betweenst stages is encrypt
+5. where to send deets to? how to export to useable location to run charges from?
+6. 

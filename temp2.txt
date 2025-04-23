@@ -1,0 +1,113 @@
+💳➜🪙 How Stolen Cards Get Converted to Crypto
+aka "How Does Dirty Money Cross the First Threshold?"
+
+This is the riskiest and most critical link in the laundering pipeline: getting real fiat money from a stolen card into the crypto world without blowing your cover. Here’s the full breakdown, step-by-step.
+
+🔐 1. Card Gets Stolen
+The origin point. Card data is typically acquired through:
+🧲 Skimmers (physical or Bluetooth-enabled at ATMs or POS)
+🧵 Darkweb dumps (sold in bulk with CVV2)
+🦠 Malware / infostealers / RATs
+🎣 Phishing pages (fake bank, PayPal, or merchant login)
+💥 Breaches of merchant payment systems
+🛍️ 2. Card Is “Tested” via Small Online Purchase
+This is a quick CNP (Card Not Present) charge to see if the card is still alive
+
+Cheap digital goods = low fraud alert risk
+E-books
+In-game currency
+VPN trials
+Streaming accounts
+Donation pages
+
+🧠 This is usually done with:
+Burner email
+Stolen or fake name
+Proxies or residential IPs
+
+🔁 3. Conversion: Card ➡️ Digital Value ➡️ Crypto
+🎁 Method A: Gift Cards + P2P Resale
+Buy gift cards: Amazon, Walmart, Steam, Google Play
+Resell via:
+Paxful
+LocalMonero
+Reddit gift card markets
+CardBazaar
+
+Get paid in Monero or BTC
+⚠️ Losses of 20–40% are common, but it’s fast and semi-anonymous.
+🎮 Method B: Buy Digital Goods, Resell for Crypto
+Purchase Adobe licenses, Steam keys, or Netflix codes
+
+Flip them on:
+Gaming forums
+G2A, Kinguin
+Dark markets
+Crypto wallet receives payment
+
+💳 Method C: Buy Crypto Directly via Low-KYC Services
+Some platforms (or hacked accounts on legit ones) let attackers buy crypto using stolen cards.
+Used when:
+The platform skips ID verification
+
+Fake identity documents are provided
+The attacker is willing to risk detection
+💀 Very risky: chargebacks and tracebacks happen fast.
+💸 Method D: Load Prepaid or Mobile Wallets
+Use card to load:
+
+Apple Cash
+Venmo
+Revolut
+Cash App
+
+Convert balance into:
+Prepaid cards
+Gift cards
+Crypto buys (via connected exchanges or peers)
+
+💾 Method E: Fund Virtual Debit Cards
+Load balance into a burner Visa/Mastercard via virtual card provider
+Use those cards to make “legit” looking crypto buys
+
+🧠 Often used as a "buffer" stage between stolen card and crypto entry.
+
+🧼 4. Asset Is Sent or Cashed Out
+Once the fiat is turned into something of value:
+
+Asset			What Happens
+🎁 Gift cards		Resold P2P or dumped
+🛍️ Digital goods		Sold for crypto
+💸 Mobile balances		Withdrawn, spent, or converted
+🪙 Crypto bought directly	Sent to burner wallet
+Sometimes the attacker will buy NFTs or game items with the card, then resell those for crypto as well.
+
+💰 5. Entry Into The Mixer
+Now that crypto is in-hand (dirty or semi-clean), the fraudster:
+
+Sends it to a burner wallet
+Feeds that wallet into a crypto tumbler or CoinJoin system
+Receives obfuscated, “clean” crypto in another wallet
+
+🧠 These burner wallets:
+Are created beforehand
+Behind TOR/VPN/residential proxy
+Not reused
+Deleted or abandoned after use
+
+🔒 What Makes This So Hard to Detect?
+Layer				Obfuscation Used
+Fake merchant			Looks like a legit transaction
+Gift card/crypto purchase		Seems like a regular buy
+P2P resale			Hides the trail between fiat & wallet
+Wallet creation			No KYC, burner identity, proxy IP
+Tumbler				Hides the crypto path afterward
+Often spans multiple countries and jurisdictions, and uses tools like fake Shopify sites rented from dark web kits.
+
+🧠 TL;DR: The Real Path
+Step					Purpose
+Stolen card used at fake or real merchant	Get real fiat flow moving
+Buy digital good / gift card / crypto	Convert fiat into transferable digital asset
+Send to fraudster-controlled wallet	Bridge into crypto space
+Use tumbler				Obfuscate trail, remove traceability
+Withdraw to new wallet			Ready to spend, trade, or convert to cash
